@@ -28,4 +28,4 @@ This project analyzes sales data using Microsoft Excel to identify trends, top-p
 - Dashboard screenshots
 
 ## Author
-[Your Name]
+[Umul Hasanah]
